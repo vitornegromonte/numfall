@@ -26,7 +26,7 @@ def main():
     
     contador = 0
     pontuacao = 0
-    intervalo_geracao = 3000
+    intervalo_geracao = 1500
     limite_geracao = intervalo_geracao
     objetos_caindo = []
     
@@ -116,7 +116,5 @@ def main():
             # chamar a tela de fim de jogo
             
         pg.display.flip()
-        
-        pg.quit()
-
+    pg.quit()
 main()
