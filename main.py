@@ -7,6 +7,7 @@ from player import Player
 from coletavel import Coletavel, ScoreBoard
 from timer import TimerGame
 
+##texto
 
 def main():
     # Iniciando o pygame
