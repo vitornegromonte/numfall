@@ -10,7 +10,6 @@
 6. [Desafios, erros e aprendizados](#desafios-erros-e-aprendizados)
 7. [Galeria do projeto](#galeria-do-projeto)
 
-<img src="1.jpg" alt="screen1">
 
 
 ## Intruções
@@ -57,3 +56,8 @@ Erros: Demoramos para juntar as classes na main. Problemas para juntar as classe
 Aprendizados: Usar GitHub ajudou o grupo a construir o código coletivamente. 
 
 ## Galeria do projeto
+
+
+<img src="assets/readme/1.jpg" alt="screen1">
+
+<img src="assets/readme/2.jpg" alt="screen1">
