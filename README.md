@@ -36,7 +36,7 @@
 
 - Assets: diretório que contém os recursos visual do projeto (imagens, sprites, fontes e etc).
   
-![Digrama contendo a estrutura dos diretórios do projeto](assets/imgs/diagram.jpg)
+![Digrama contendo a estrutura dos diretórios do projeto](assets/readme/diagram.jpg)
 
 ## Bibliotecas:
 Foi utilizado o [Pygame](pygame.org) para o desenvolvimento, sobretudo, devido a sua extensa documentação e implementação em projetos na comunidade open source.
