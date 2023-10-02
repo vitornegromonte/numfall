@@ -10,6 +10,9 @@
 6. [Desafios, erros e aprendizados](#desafios-erros-e-aprendizados)
 7. [Galeria do projeto](#galeria-do-projeto)
 
+<img src="1.jpg" alt="screen1">
+
+
 ## Intruções
 1. Instalação do python e dos pacotes listados em __*requirements.txt*__
 2. Download da branch *Main* deste repositório
