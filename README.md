@@ -58,6 +58,6 @@ Aprendizados: Usar GitHub ajudou o grupo a construir o código coletivamente.
 ## Galeria do projeto
 
 
-<img src="assets/readme/1.jpg" alt="screen1">
+<img src="assets/readme/1.png" alt="screen1">
 
-<img src="assets/readme/2.jpg" alt="screen1">
+<img src="assets/readme/2.png" alt="screen1">
