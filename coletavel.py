@@ -1,3 +1,14 @@
+import pygame as pg
+import random
+
+pg.init()
+largura_tela = 400
+altura_tela = 600
+tela = pg.display.set_mode((largura_tela, altura_tela))
+valor_inicial = 1
+
+fonte_objetos = pg.font.Font('assets/fonts/pixel-art.ttf', 15)
+
 class Coletavel:
     def __init__(self):
         self.x = random.randint(0, largura_tela - 20)
